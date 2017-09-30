@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["raymondhww.pythonanywhere.com"]
 
 # xzz
+a = 1
 
 
 # Application definition
